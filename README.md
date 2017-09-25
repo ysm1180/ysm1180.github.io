@@ -77,55 +77,34 @@
 
 [2]: http://www.globalsoft.co.kr/oadd/oadd.php
 
-> ### [OADD (Outlook Add-In)][2] *<small><small> PHP, LESS, Javascript (ES6), HTML5...</small></small>*
-
-+ 대용량 / 조직도 Add-In for Outlook, Exchange Online
-
-
+#### [OADD (Outlook Add-In)][2] `대용량 첨부 / 조직도` - *<small><small> PHP, LESS, Javascript (ES6), HTML5...</small></small>*   
 ![OADD 대용량 / 조직도](./images/oadd.png)
 
-
 [3]: https://oaddin.globalsoft.co.kr/manage
-> ### [OADD Web Manager][3] *<small><small> PHP, LESS, Javascript (ES6), HTML5...</small></small>*
-
-+ OADD 웹 관리자
-
-![대용량 업로드 로그 이미지](./images/manager_log.png)
-
+#### [OADD Web Manager][3] `OADD 웹 관리 페이지` - *<small><small>PHP, LESS, Javascript (ES6), HTML5...</small></small>* 
+![대용량 업로드 로그 이미지](./images/manager_log.png) 
 ![조직도 관리](./images/manager_org.png)
 
+#### 글로벌소프트 CRM Renewal - *<small><small>Node.js, Typescript (AngularJS), LESS</small></small>* 
 
-
-> ### 글로벌소프트 CRM Renewal `*<small><small>Node.js, Typescript (AngularJS), LESS</small></small>* 
-
-
-
-> ### 대중교통 알리미 for Gear S2 *<small><small>HTML, CSS, Javascript...</small></small>*
-
-+ 창의적 통합설계2 프로젝트 "*스마트워치용 대중교통 앱 개발"*
-
-
-+ 기존의 Tizen 라이브러리의 문제점을 수정하고, 속도를 이용한 리스트 넘김 기능 추가
-+ SOSCON 앱 공모전 3위
+#### 대중교통 알리미 for Samsung Galaxy Gear S2 `창의적 통합설계2 프로젝트` - *<small><small>HTML, CSS, Javascript...</small></small>* 
 
 ![대중교통 알리미](./images/project307.png)
-![BUS](./images/bus.png)
 ![커밋 빈도](./images/commit.png)
 
 
 
-> ### 삼국지 조조전 MOD & Editor *<small><small>Assembly, VB, C#...</small></small>*
+#### 삼국지 조조전 MOD & Editor - *<small><small>Assembly, VB, C#...</small></small>*
 
 [5]: https://github.com/ysm1180/JojoLandEditor
 [6]: http://cafe.naver.com/jojopeople/203473
 [7]: http://cafe.naver.com/jojopeople/146995
 
-+ 조조전 MOD / [네이버 카페][7]
-  + Assembly Language로 자체 개조하여 기능 추가된 실행파일 EXE 포함
-  
-+ [지형 속성 편집기][5] / [네이버 카페][6]
+##### 조조전 MOD - [네이버 카페][7]
+###### Assembly Language로 자체 개조하여 기능 추가된 실행파일 EXE 포함
+
+##### [지형 속성 편집기][5] - [네이버 카페 ][6]
 ![지형속성편집기](./images/land.png)
 
-+ ImsgEditor, MeffEditor, Etc...
+##### ImsgEditor, MeffEditor, Etc...
 ![IMSGEDITOR](./images/imsg.png)
-![MEFFEDITOR](./images/meff.png)
