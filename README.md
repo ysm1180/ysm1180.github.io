@@ -66,11 +66,11 @@
 
   + Lua 스크립트를 연동하여 자유자재로 게임 시스템을 변경하는 형태로 새로 개발 중
 
-  ​
++ Python & Docker 를 이용한 테스트 서버 구축 자동화 - *Apache, PHP*
 
 
 
-
+    
 
 
 ## Featured Works
@@ -86,6 +86,7 @@
 ![조직도 관리](./images/manager_org.png)
 
 #### 글로벌소프트 CRM Renewal - *<small><small>Node.js, Typescript (AngularJS), LESS</small></small>* 
+![CRM](./images/renewal.png)
 
 #### 대중교통 알리미 for Samsung Galaxy Gear S2 `창의적 통합설계2 프로젝트` - *<small><small>HTML, CSS, Javascript...</small></small>* 
 
