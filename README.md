@@ -7,7 +7,7 @@
 [9]: http://www.shiftup.co.kr/
 
 ## CV
-+ <small>2018 ~ <small> [시프트업][9]
++ <small>2018 ~ </small> [시프트업][9]
   + 서버 개발자 (PHP)
 
 + <small>2016 ~ 2017 </small> [글로벌소프트][1]
@@ -69,13 +69,14 @@
 
   + Lua 스크립트를 연동하여 자유자재로 게임 시스템을 변경하는 형태로 새로 개발 중
 
-+ Python & Docker 를 이용한 테스트 서버 구축 자동화 - *Apache, PHP*
++ Python & Docker 를 이용한 웹 개발 테스트 서버 구축 자동화 - *Apache, PHP*
 
 + PHP, 코드이그나이터를 이용하여 대용량 첨부 / 조직도 Outlook Add-in 서비스 구축
   
   + Add-In 관리 페이지 구축
 
-+ React 를 이용하여 코인 가격 정보 사이트 제작 경험
+[11]: https://github.com/ysm1180/coin
++ React 를 이용하여 코인 가격 정보 사이트 제작 경험 ([Github][11])
 
     
 
@@ -84,45 +85,45 @@
 
 [2]: http://www.globalsoft.co.kr/oadd/oadd.php
 
-#### [OADD (Outlook Add-In)][2] `대용량 첨부 / 조직도` - *<small><small> PHP, LESS, Javascript (ES6), HTML5...</small></small>*   
+### [OADD (Outlook Add-In)][2] `대용량 첨부 / 조직도` - *<small><small> PHP, LESS, Javascript (ES6), HTML5...</small></small>*   
 ![OADD 대용량 / 조직도](./images/oadd.png)
 
 [3]: https://oaddin.globalsoft.co.kr/manage
-#### [OADD Web Manager][3] `OADD 웹 관리 페이지` - *<small><small>PHP, LESS, Javascript (ES6), HTML5...</small></small>* 
+### [OADD Web Manager][3] `OADD 웹 관리 페이지` - *<small><small>PHP, LESS, Javascript (ES6), HTML5...</small></small>* 
 ![대용량 업로드 로그 이미지](./images/manager_log.png) 
 ![조직도 관리](./images/manager_org.png)
 
-#### 글로벌소프트 CRM Renewal - *<small><small>Node.js, Typescript (AngularJS), LESS</small></small>* 
+### 글로벌소프트 CRM Renewal - *<small><small>Node.js, Typescript (AngularJS), LESS</small></small>* 
 ![CRM](./images/renewal.png)
 
-#### 대중교통 알리미 for Samsung Galaxy Gear S2 `창의적 통합설계2 프로젝트` - *<small><small>HTML, CSS, Javascript, C++, etc...</small></small>* 
+### 대중교통 알리미 for Samsung Galaxy Gear S2 `창의적 통합설계2 프로젝트` - *<small><small>HTML, CSS, Javascript, C++, etc...</small></small>* 
 
 ![대중교통 알리미](./images/project307.png)
 ![커밋 빈도](./images/commit.png)
 
 
 
-#### 삼국지 조조전 MOD & Editor - *<small><small>Assembly, VB, C#, etc...</small></small>*
+### 삼국지 조조전 MOD & Editor - *<small><small>Assembly, VB, C#, etc...</small></small>*
 
 [5]: https://github.com/ysm1180/JojoLandEditor
 [6]: http://cafe.naver.com/jojopeople/203473
 [7]: http://cafe.naver.com/jojopeople/146995
 
-##### 조조전 MOD - [네이버 카페][7]
-###### Assembly Language로 자체 개조하여 기능 추가된 실행파일 EXE 포함
+#### 조조전 MOD - [네이버 카페][7]
+##### Assembly Language로 자체 개조하여 기능 추가된 실행파일 EXE 포함
 
-##### [지형 속성 편집기][5] - [네이버 카페 ][6]
+#### [지형 속성 편집기][5] - [네이버 카페 ][6]
 ![지형속성편집기](./images/land.png)
 
-##### ImsgEditor, MeffEditor, Etc...
+#### ImsgEditor, MeffEditor, Etc...
 ![IMSGEDITOR](./images/imsg.png)
 
 [10]: https://github.com/ysm1180/newjojogame-script-editor
 
-#### 삼국지 조조전 Renewal
-##### [Main Engine][8] - *<small><small>C++, Lua</small></small>*
+### 삼국지 조조전 Renewal
+#### [Main Engine][8] - *<small><small>C++, Lua</small></small>*
 ![루아스크립트예제](./images/lua_script_example.png)
 ![게임타이틀](./images/game_title.png)
 
-##### [Script Editor][10] `게임 편집 툴` - *<small><small>Node.js, Typescript(Javascript), Electron...</small></small>
+#### [Script Editor][10] `게임 편집 툴` - *<small><small>Node.js, Typescript(Javascript), Electron...</small></small>
 ![스크립트에디터](./images/script_editor.png)
