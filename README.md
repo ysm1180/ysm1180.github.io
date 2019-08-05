@@ -6,9 +6,10 @@
 [4]: https://github.com/ysm1180/pl2015
 [9]: http://www.shiftup.co.kr/
 
-## CV
+## Resume
 + <small>2018 ~ </small> [시프트업][9]
   + 서버 개발자 (PHP)
+  + 게임 테스트 툴 개발 (C#)
 
 + <small>2016 ~ 2017 </small> [글로벌소프트][1]
   + OADD 솔루션 메인 개발자
@@ -55,7 +56,7 @@
 
 ## Experience
 
-+ Story of both *<small>2014. 02 - 2014. 06</small>*
++ [Node.js] Story of both *<small>2014. 02 - 2014. 06</small>*
 
   + SNS, Blog 등을 통해 영화, 만화 등의 스토리를 공모하는 웹 서비스 제작 참여
 
@@ -63,23 +64,36 @@
 
   + ![Story of both title](./images/story.png)
 
-[8]: https://github.com/ysm1180/NewJojoGame
-
-+ [삼국지 조조전 Renewal][8] *<small>2017.09 ~</small>* `developing...`
-
-  + Lua 스크립트를 연동하여 자유자재로 게임 시스템을 변경하는 형태로 새로 개발 중
-
-+ Python & Docker 를 이용한 웹 개발 테스트 서버 구축 자동화 - *Apache, PHP*
-
-+ PHP, 코드이그나이터를 이용하여 대용량 첨부 / 조직도 Outlook Add-in 서비스 구축
++ [*PHP*, *Javascript*] Codeigniter 프레임 워크 기반의 대용량 첨부 / 조직도 Outlook Add-in 서비스 구축
   
-  + Add-In 관리 페이지 구축
+  + [*PHP*, *Javascript*] Add-In 관리 페이지 구축
+  + [*Python*, *Docker*] 웹 개발 테스트 서버 구축 자동화
 
 [11]: https://github.com/ysm1180/coin
-+ React 를 이용하여 코인 가격 정보 사이트 제작 경험 ([Github][11])
++ [*React*, *Node.js*] 가상 화폐 가격 정보 사이트 제작 ([Github][11]) 
 
-    
+    + Graph Chart 직접 개발
 
+    ![UPBIT](./images/coin-1.png)
+
+    ![COINONE](./images/coin-2.png)
+
+[12]: https://github.com/ysm1180/lol-study
++ [*Django*] 리그 오브 레전드 소환사 정보 확인 페이지 제작 ([Github][12])
+
+     ![Lol study](./images/lol-study.png)
+
+[13]: https://github.com/ysm1180/auto-chess-helper
++ [*Vue*] Dota 2 오토 체스의 시너지 확인 페이지 제작 ([Github][13])
+
+    ![Lol study](./images/dota.png)
+
+
+[8]: https://github.com/ysm1180/ThreeKingdoms-Caocao
+
++ [삼국지 조조전 Renewal][8] *<small>2018 ~</small>* `developing...`
+
+  + Lua 스크립트를 연동하여 자유자재로 게임 시스템을 변경하는 형태로 새로 개발 중
 
 ## Featured Works
 
@@ -126,4 +140,5 @@
 ![게임타이틀](./images/game_title.png)
 
 #### [Script Editor][10] `게임 편집 툴` - *<small>Node.js, Typescript(Javascript), Electron, etc...</small>
+    
 ![스크립트에디터](./images/script_editor.png)
