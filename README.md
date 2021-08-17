@@ -14,7 +14,7 @@
   + 게임 내부 데이터 조작 및 테스트 툴 개발
     + Language : C#
   + 게임 내부 개발 웹 툴 풀스택 개발 
-    + AWS : EKS, Elatic beanstalk)
+    + AWS : EKS, Elatic beanstalk
     + Language and framework : React(Webpack, Snowpack, Vite), Typescript, Next.js, Django, Node.js, FastAPI, 
 
 + <small>2016 ~ 2017 </small> [글로벌소프트][1]
