@@ -86,7 +86,7 @@
 
      ![Lol study](./images/lol-study.png)
 
-+ [*Electron*, *Vue*, *Express*] [lol-explorer](https://github.com/ysm1180/lol-explorer) / [lol-explorer-server](https://github.com/ysm1180/lol-explorer-server) 미완성
++ [*Electron*, *Vue*, *Typescript*, *Node.js (Express)*] [lol-explorer](https://github.com/ysm1180/lol-explorer) / [lol-explorer-server](https://github.com/ysm1180/lol-explorer-server)
   + 리그 오브 레전드 도우미
   + Riot games가 제공하는 API를 이용하여 통계를 수집하고 그 정보를 이용하여 지표 추천
   + 참조 : https://blitz.gg/lol
@@ -98,7 +98,7 @@
 
 [8]: https://github.com/ysm1180/ThreeKingdoms-Caocao
 
-+ [삼국지 조조전 Renewal][8] *<small>2018 ~</small>* `developing...`
++ [*C++*, *Lua*] [삼국지 조조전 Renewal][8] *<small>2018 ~</small>* `developing...`
 
   + Lua 스크립트를 연동하여 자유자재로 게임 시스템을 변경하는 형태로 새로 개발 중
 
