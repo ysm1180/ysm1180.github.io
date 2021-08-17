@@ -8,9 +8,9 @@
 
 ## Resume
 + <small>2018 ~ </small> [시프트업][9]
-  + 서버 개발자 (PHP)
+  + 게임 서버 개발자 (PHP, AWS, Mysql, Websocket)
   + 게임 테스트 툴 개발 (C#)
-  + 게임 내부 개발 웹 툴 개발 (Typescript, React, PHP, Node.js, Webpack, Snowpack, Next.js...)
+  + 게임 내부 개발 웹 툴 풀스택 개발 (Typescript, React, PHP, Node.js, Webpack, Snowpack, Next.js)
 
 + <small>2016 ~ 2017 </small> [글로벌소프트][1]
   + OADD 솔루션 메인 개발자
@@ -106,17 +106,21 @@
 
 ## Featured Works
 
+### SHIFTUP `대용량 아이템 지급 툴`, `아이템 쿠폰 생성 툴`, `서버 로그 뷰어`, `확률 시뮬레이터`, `이벤트 스케쥴러`, `서버 API 개발 Request 툴`
+- 웹 기반으로 개발한 툴.
+- React, PHP, Webpack, Snowpack, Vite, Typescript, Django, Node.js 등 다양한 언어와 프레임워크를 이용해 개발 경험
+
 [2]: http://www.globalsoft.co.kr/oadd/oadd.php
 
-### [OADD (Outlook Add-In)][2] `대용량 첨부 / 조직도` - *<small>PHP, LESS, Javascript (ES6), HTML5, etc...</small>*   
+### Globalsoft [OADD (Outlook Add-In)][2] `대용량 첨부 / 조직도` - *<small>PHP, LESS, Javascript (ES6), HTML5, etc...</small>*   
 ![OADD 대용량 / 조직도](./images/oadd.png)
 
 [3]: https://oaddin.globalsoft.co.kr/manage
-### [OADD Web Manager][3] `OADD 웹 관리 페이지` - *<small>PHP, LESS, Javascript (ES6), HTML5...</small>* 
+### GlobalSoft [OADD Web Manager][3] `OADD 웹 관리 페이지` - *<small>PHP, LESS, Javascript (ES6), HTML5...</small>* 
 ![대용량 업로드 로그 이미지](./images/manager_log.png) 
 ![조직도 관리](./images/manager_org.png)
 
-### 글로벌소프트 CRM Renewal - *<small>Node.js, Typescript (AngularJS), LESS</small>* 
+### Globalsoft CRM Renewal - *<small>Node.js, Typescript (AngularJS), LESS</small>* 
 ![CRM](./images/renewal.png)
 
 ### 대중교통 알리미 for Samsung Galaxy Gear S2 `창의적 통합설계2 프로젝트` - *<small>HTML, CSS, Javascript, C++, etc...</small>* 
