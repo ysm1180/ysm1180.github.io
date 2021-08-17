@@ -100,7 +100,7 @@
 
   + Lua 스크립트를 연동하여 자유자재로 게임 시스템을 변경하는 형태로 새로 개발 중
 
-+ [Suit-UI](https://github.com/ysm1180/suit-ui)
++ [*React, Typescript, Vite*] [Suit-UI](https://github.com/ysm1180/suit-ui)
   + React UI Library
   + Demo : https://ysm1180.github.io/Suit-UI/
 
