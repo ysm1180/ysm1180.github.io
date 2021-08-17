@@ -8,9 +8,14 @@
 
 ## Resume
 + <small>2018 ~ </small> [시프트업][9]
-  + 게임 서버 개발자 (PHP, AWS, Mysql, Websocket)
-  + 게임 테스트 툴 개발 (C#)
-  + 게임 내부 개발 웹 툴 풀스택 개발 (Typescript, React, PHP, Node.js, Webpack, Snowpack, Next.js)
+  + 게임 서버 개발자
+    + AWS : EC2, RDS, Lambda, Redis, S3, ...
+    + Language : PHP, Mysql
+  + 게임 내부 데이터 조작 및 테스트 툴 개발
+    + Language : C#
+  + 게임 내부 개발 웹 툴 풀스택 개발 
+    + AWS : EKS, Elatic beanstalk)
+    + Language and framework : React(Webpack, Snowpack, Vite), Typescript, Next.js, Django, Node.js, FastAPI, 
 
 + <small>2016 ~ 2017 </small> [글로벌소프트][1]
   + OADD 솔루션 메인 개발자
@@ -25,9 +30,6 @@
 + <small>2010 - 2012</small> 남대전고등학교
     + 2011 한국정보올림피아드 경시대회 은상
     + 2011 대한민국 인재상
-
-
-
 
 
 ## Major Courses
@@ -107,8 +109,8 @@
 ## Featured Works
 
 ### SHIFTUP `대용량 아이템 지급 툴`, `아이템 쿠폰 생성 툴`, `서버 로그 뷰어`, `확률 시뮬레이터`, `이벤트 스케쥴러`, `서버 API 개발 Request 툴`
-- 웹 기반으로 개발한 툴.
-- React, PHP, Webpack, Snowpack, Vite, Typescript, Django, Node.js 등 다양한 언어와 프레임워크를 이용해 개발 경험
+- 웹 기반으로 개발한 툴
+- React, PHP, Webpack, Snowpack, Vite, Typescript, Django, Node.js 등 다양한 언어와 프레임워크를 이용한 개발 경험
 
 [2]: http://www.globalsoft.co.kr/oadd/oadd.php
 
