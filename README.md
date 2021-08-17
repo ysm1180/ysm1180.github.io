@@ -10,6 +10,7 @@
 + <small>2018 ~ </small> [시프트업][9]
   + 서버 개발자 (PHP)
   + 게임 테스트 툴 개발 (C#)
+  + 게임 내부 개발 웹 툴 개발 (Typescript, React, PHP, Node.js, Webpack, Snowpack, Next.js...)
 
 + <small>2016 ~ 2017 </small> [글로벌소프트][1]
   + OADD 솔루션 메인 개발자
@@ -49,7 +50,7 @@
   + 운영체제 (C)
 + 2016 - 1학기
   + 소셜 네트워크 분석
-  + 창의적 통합설계2 *<small>스마트워치용 대중교통 앱 개발</small>*
+  + 창의적 통합설계2 *<small>스마트워치용 대중교통 앱 개발</small>* for tizen
 
 
 
@@ -83,17 +84,25 @@
 
      ![Lol study](./images/lol-study.png)
 
++ [*Electron*, *Vue*, *Express*] [lol-explorer](https://github.com/ysm1180/lol-explorer) / [lol-explorer-server](https://github.com/ysm1180/lol-explorer-server) 미완성
+  + 리그 오브 레전드 도우미
+  + Riot games가 제공하는 API를 이용하여 통계를 수집하고 그 정보를 이용하여 지표 추천
+  + 참조 : https://blitz.gg/lol
+
 [13]: https://github.com/ysm1180/auto-chess-helper
 + [*Vue*] Dota 2 오토 체스의 시너지 확인 페이지 제작 ([Github][13])
 
     ![Lol study](./images/dota.png)
-
 
 [8]: https://github.com/ysm1180/ThreeKingdoms-Caocao
 
 + [삼국지 조조전 Renewal][8] *<small>2018 ~</small>* `developing...`
 
   + Lua 스크립트를 연동하여 자유자재로 게임 시스템을 변경하는 형태로 새로 개발 중
+
++ [Suit-UI](https://github.com/ysm1180/suit-ui)
+  + React UI Library
+  + Demo : https://ysm1180.github.io/Suit-UI/
 
 ## Featured Works
 
