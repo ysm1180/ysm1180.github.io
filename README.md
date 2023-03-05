@@ -17,6 +17,7 @@
     + Infra: AWS, Docker
   + 2022.10 ~ : 미디어 AI 합성 및 프로세싱 서버 신규 구축
     + Language : Spring, Kotlin
+    + Tools: ffmpeg
 + <small>2018.01 ~ 2021.09 </small> [시프트업][9]
   + 데스티니 차일드 서버 개발자
     + Infra: AWS
