@@ -1,1 +1,0 @@
-[모바일 청첩장은 여길 눌러주세요!](https://ysm1180.github.io/wedding/)
